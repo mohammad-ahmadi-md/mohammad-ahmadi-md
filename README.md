@@ -15,7 +15,7 @@
 Author/co-author of multiple peer-reviewed publications in medicine and public health.
 **Selected publication**
 - *Global Burden of Ischemic Heart Disease in the Middle East and North Africa (MENA) and Attributable Risk Factors* (derived from my MD-MPH thesis)
-For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=YHsmUR4AAAAJ&hl=en).
+- For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=YHsmUR4AAAAJ&hl=en).
 ## 🎯 Current Goal
 To develop AI methods for medical image computing and contribute to translational healthcare research.
 ## 📫 Connect with Me
