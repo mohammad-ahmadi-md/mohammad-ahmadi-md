@@ -12,15 +12,18 @@
 - Machine Learning
 - Git & GitHub
 ## 📄 Publications
-Author/co-author of multiple peer-reviewed publications in medicine and public health.
-**Selected publication**
+Author/co-author of multiple peer-reviewed publications in medicine, biomedical engineering, and public health.
+**Selected publications**
 - *Global Burden of Ischemic Heart Disease in the Middle East and North Africa (MENA) and Attributable Risk Factors* (derived from my MD-MPH thesis)
+- *An Improved Algorithm for Heart Rate Tracking During Physical Exercise Using Simultaneous Wrist-Type Photoplethysmographic and Acceleration Signals* (IEEE International Conference on Biomedical Engineering)
 - For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=YHsmUR4AAAAJ&hl=en).
 ## 🎯 Current Goal
 To develop AI methods for medical image computing and contribute to translational healthcare research.
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/mohammad-ahmadi-30a828226
 - Google Scholar: https://scholar.google.com/citations?user=YHsmUR4AAAAJ&hl=en
+
+
 <!--
 **mohammad-ahmadi-md/mohammad-ahmadi-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
